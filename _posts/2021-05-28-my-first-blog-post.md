@@ -1,2 +1,4 @@
-
-This is just my first post.
+---
+title: "My First Post"
+date: 2021-05-28
+---
